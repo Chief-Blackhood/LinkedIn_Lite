@@ -1,0 +1,4 @@
+{
+  "jwtSecret": "MERN_assign_secret",
+  "mongoURI": "mongodb+srv://MERN:Chief-B@mern-assignment.cctf3.mongodb.net/assign1?retryWrites=true&w=majority"
+}
